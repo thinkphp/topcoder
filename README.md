@@ -1,7 +1,7 @@
 # topcoder
 My own solutions on topcoder; 
 
-## My Profile
+## My handle
 https://profiles.topcoder.com/thinkphp
 
 ## Arena Practice
